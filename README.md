@@ -1,6 +1,5 @@
-Website Address: [Rohith's Protfolio](https://rohithtechis.github.io/Rohithtechis/)
+Website Address: [Mai's Protfolio](https://maielhadad99.github.io/Mai-Portfolio/)
 
-Hi, Taran this side.
 
 This is my Data Science Portfolio
 
