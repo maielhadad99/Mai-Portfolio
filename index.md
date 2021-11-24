@@ -48,13 +48,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not ]()
+[The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not ](https://github.com/maielhadad99/DT_Ensemble_Project.git)
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 97% .
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 99% .
 
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
