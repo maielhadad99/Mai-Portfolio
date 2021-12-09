@@ -59,3 +59,16 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
 - Selected best model based on train and test performance
+
+***
+
+[The San Francisco Controller's Office maintains a database of the salary and benefitspaid to City employees since fiscal year 2013](https://github.com/maielhadad99/Clustring_Project.git)
+
+<img src="images/clusters.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,Elbow method, K means cluster algorithm
+
+**Quantifiable result:** We could Classify 3 clusters from the dataset .
+
+- Used the  K means cluster algorithm to classify the number of clusters the can be formed from the data
+- Compared predictive performance by using  a elbow method to the data
