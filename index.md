@@ -21,11 +21,14 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of user intrest using bank data](https://github.com/maielhadad99/Logistic_Regression_Project..git)
+[Prediction of user interest using bank data](https://github.com/maielhadad99/Logistic_Regression_Project..git)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
+The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 **Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE .
 
