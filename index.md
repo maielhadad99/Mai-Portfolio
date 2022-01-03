@@ -73,6 +73,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 <img src="images/clusters.png?raw=true"/>
 
+
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,Elbow method, K means cluster algorithm
 
 **Project Objective:** We have to fit the data to a clustering model. The model should help the State authorities/Policy makers to understand how they can improve on their policies for employee benefits.
