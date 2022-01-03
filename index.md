@@ -43,6 +43,8 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
 
+**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
+
 **Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 82% .
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
@@ -51,11 +53,13 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not ](https://github.com/maielhadad99/DT_Ensemble_Project.git)
+[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/maielhadad99/DT_Ensemble_Project.git)
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
+
+**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
 **Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement  with an accuracy of 99% .
 
@@ -65,11 +69,13 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[The San Francisco Controller's Office maintains a database of the salary and benefitspaid to City employees since fiscal year 2013](https://github.com/maielhadad99/Clustring_Project.git)
+[The San Francisco Project on Clustering](https://github.com/maielhadad99/Clustring_Project.git)
 
 <img src="images/clusters.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,Elbow method, K means cluster algorithm
+
+**Project Objective:** We have to fit the data to a clustering model. The model should help the State authorities/Policy makers to understand how they can improve on their policies for employee benefits.
 
 **Quantifiable result:** We could Classify 3 clusters from the dataset .
 
