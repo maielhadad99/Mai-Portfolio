@@ -81,3 +81,18 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 - Used the  K means cluster algorithm to classify the number of clusters the can be formed from the data
 - Compared predictive performance by using  a elbow method to the data
+
+***
+
+[Amazon Fine Food Analysis using NLP](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes.git)
+<img src=“images/amazon.jpeg?raw=true”/>
+**Skills used:** Python, Pandas, SKlearn, TfidVectorizer
+
+**Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods .
+
+**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
+
+[**AUC** Score of 88%](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes/blob/main/NLP_Amazon_Fine_Food_Reviews_Analysis_Naive_Bayes.ipynb) .
+- Given a review, it is determined whether the review is positive or negative.
+- Used NLP for this approach.
+- A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
