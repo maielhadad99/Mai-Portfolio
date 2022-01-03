@@ -87,6 +87,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Amazon Fine Food Analysis using NLP](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes.git)
 <img src=“images/amazon.jpeg?raw=true”/>
+
 **Skills used:** Python, Pandas, SKlearn, TfidVectorizer
 
 **Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods .
