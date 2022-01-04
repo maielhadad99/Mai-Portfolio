@@ -10,7 +10,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - **Skills used:** Python, Pandas, SKlearn
 
-- **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+- **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropriate measures which finally will result in bike utilization.
 
 - **Quantifiable result:** We could predict the Bike rental demand resulting in 73% accuracy .
 
@@ -43,7 +43,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
 
-**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
+**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbor, the algorithm is used to classify points according to class of their K nearest neighbor points .
 
 **Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 82% .
 
@@ -93,7 +93,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods .
 
-**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
+**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is neutral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
 
 [**AUC** Score of 88%](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes/blob/main/NLP_Amazon_Fine_Food_Reviews_Analysis_Naive_Bayes.ipynb) .
 - Given a review, it is determined whether the review is positive or negative.
@@ -102,13 +102,13 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
+[Implementing Deep Neutral Network with Keras for handwriting classification and recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
 <b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
 
-<b>Project Objective:</b> Implementing Deep Neural Network with Keras for handwritting classification and recognition
+<b>Project Objective:</b> Implementing Deep Neural Network with Keras for handwriting classification and recognition
 
 <b>Quantifiable Results:</b>
 
@@ -135,6 +135,6 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Quantifiable result:** We could Classify the  diabetes parameters as positive or negative with an accuracy of 84.5% .
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as positive or negative based on various Diabetes parameters
+- Used the K Nearest Neighbors algorithm to classify a patient's condition as positive or negative based on various Diabetes parameters
 - Compared predictive performance by fitting a RandomForest model to the data
 - Selected best model based on train and test performance
