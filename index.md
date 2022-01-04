@@ -131,7 +131,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,RandomForest,KNN
 
-**Project Objective:** In this project we are provided with multiple instances of diabetes parameters and we are also provided with their classification as positive or negative . We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
+**Project Objective:** In this project we are provided with multiple instances of diabetes parameters and we are also provided with their classification as positive or negative . We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbor points .
 
 **Quantifiable result:** We could Classify the  diabetes parameters as positive or negative with an accuracy of 84.5% .
 
