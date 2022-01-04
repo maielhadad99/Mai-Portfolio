@@ -104,7 +104,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
 
- <img src="images/Neural-Network-diagram.jpg?raw=true"/>
+ <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
 <b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
 
