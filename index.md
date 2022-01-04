@@ -123,3 +123,18 @@ The classification goal is to predict if the client will subscribe a term deposi
   - Improved the model
   - Improved the depth of model
 
+***
+
+[Identifying the people having diabetes ](https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
+
+<img src="images/knee-brace-ortho.png?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,RandomForest,KNN
+
+**Project Objective:** In this project we are provided with multiple instances of diabetes parameters and we are also provided with their classification as positive or negative . We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
+
+**Quantifiable result:** We could Classify the  diabetes parameters as positive or negative with an accuracy of 84.5% .
+
+- Used the K Nearest Neighbours algorithm to classify a patient's condition as positive or negative based on various Diabetes parameters
+- Compared predictive performance by fitting a RandomForest model to the data
+- Selected best model based on train and test performance
