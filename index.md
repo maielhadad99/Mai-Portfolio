@@ -127,7 +127,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Identifying the people having diabetes ](https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
 
-<img src="images/knee-brace-ortho.png?raw=true"/>
+<img src="images/Diabetes.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,RandomForest,KNN
 
