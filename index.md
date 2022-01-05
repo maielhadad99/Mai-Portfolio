@@ -154,3 +154,19 @@ The classification goal is to predict if the client will subscribe a term deposi
 - Used the LogisticRegression algorithm to classify a patient's condition as positive or negative based on various heart parameters
 - Compared predictive performance by fitting a DecisionTreeClassifier model to the data
 - Selected best model based on train and test performance
+
+***
+
+[Predicting the sales of the Video games](https://github.com/maielhadad99/Video_Game_Sales_Pred.git)
+
+<img src="images/VG.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,AdaBoost Regressor.
+
+**Project Objective:** In this problem, we will use the features associated with Rank, such as Platform, Year, genre, publisher to predict the probability of a global sales.
+
+**Quantifiable result:** We could predict the video game sales  with an accuracy of 96% .
+
+- We removed the outliers
+- Used the AdaBoost algorithm to Predict the video game sales
+
