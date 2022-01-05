@@ -138,3 +138,19 @@ The classification goal is to predict if the client will subscribe a term deposi
 - Used the K Nearest Neighbors algorithm to classify a patient's condition as positive or negative based on various Diabetes parameters
 - Compared predictive performance by fitting a RandomForest model to the data
 - Selected best model based on train and test performance
+
+***
+
+[Identifying the people having heart disease ]https://github.com/maielhadad99/HEART_FAILURE_PRED.git
+
+<img src="images/Diabetes.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,LogisticRegression,DecisionTreeClassifier.
+
+**Project Objective:** In this project we are provided with multiple instances parameters about Heart and we are also provided with their classification as positive or negative . We have to implement LogisticRegression, to predict if some people have heart disease. 
+
+**Quantifiable result:** We could Classify the heart disease parameters as positive or negative with an accuracy of 87.5% .
+
+- Used the LogisticRegression algorithm to classify a patient's condition as positive or negative based on various heart parameters
+- Compared predictive performance by fitting a DecisionTreeClassifier model to the data
+- Selected best model based on train and test performance
