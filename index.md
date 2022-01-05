@@ -170,3 +170,20 @@ The classification goal is to predict if the client will subscribe a term deposi
 - We removed the outliers
 - Used the AdaBoost algorithm to Predict the video game sales
 
+***
+
+[Predicting the price of a house in paris](https://github.com/maielhadad99/Paris_Housing_Price.git)
+
+<img src="images/VG.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,Linear Regression, Logistic Regression.
+
+**Project Objective:** In this problem, we will use the features associated with squareMeters, numberOfRooms, hasYard,hasPool,isNewBuilt,garage,hasGuestRoom to predict of Price of a house in paris.
+
+**Quantifiable result:** We could predict the price of house with an accuracy of 99.8% .
+
+- We removed the outliers
+- Used the Linear Regression algorithm to Predict the price of the house.
+- Used the Logistic regression algorithm to compare 
+- Selected best model based on train and test performance
+
