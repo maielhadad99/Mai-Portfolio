@@ -174,7 +174,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Predicting the price of a house in paris](https://github.com/maielhadad99/Paris_Housing_Price.git)
 
-<img src="images/VG.jpeg?raw=true"/>
+<img src="images/HP.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,Linear Regression, Logistic Regression.
 
