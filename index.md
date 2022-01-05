@@ -143,7 +143,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 [Identifying the people having heart disease ]https://github.com/maielhadad99/HEART_FAILURE_PRED.git
 
-<img src="images/Diabetes.jpg?raw=true"/>
+<img src="images/heart.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,LogisticRegression,DecisionTreeClassifier.
 
