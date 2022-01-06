@@ -85,7 +85,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-Amazon Fine Food Analysis Using NLP
+[Amazon Fine Food Analysis Using NLP]
 (https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes.git)
 
 <img src="images/amazon.jpeg?raw=true"/>
@@ -126,7 +126,7 @@ Amazon Fine Food Analysis Using NLP
 
 ***
 
-Identifying The People Having Diabetes (https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
+[Identifying The People Having Diabetes] (https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
 
 <img src="images/Diabetes.jpg?raw=true"/>
 
@@ -142,7 +142,7 @@ Identifying The People Having Diabetes (https://github.com/maielhadad99/Pima_Ind
 
 ***
 
-Identifying The People Having Heart Disease
+[Identifying The People Having Heart Disease]
 https://github.com/maielhadad99/HEART_FAILURE_PRED.git
 
 <img src="images/heart.png?raw=true"/>
