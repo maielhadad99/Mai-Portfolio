@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/maielhadad99/Linear_Regression_Project.git)
+[Examining The Effect of Environmental Factors and Weather on Bike Rentals](https://github.com/maielhadad99/Linear_Regression_Project.git)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of user interest using bank data](https://github.com/maielhadad99/Logistic_Regression_Project..git)
+[Prediction of User Interest Using Bank Data](https://github.com/maielhadad99/Logistic_Regression_Project..git)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
@@ -37,7 +37,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/maielhadad99/Knn_Nb_Project.git)
+[Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/maielhadad99/Knn_Nb_Project.git)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
@@ -53,7 +53,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[TalkingData Project on Bagging and Boosting ensemble model:](https://github.com/maielhadad99/DT_Ensemble_Project.git)
+[TalkingData Project on Bagging and Boosting Ensemble Model:](https://github.com/maielhadad99/DT_Ensemble_Project.git)
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
@@ -85,7 +85,8 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Amazon Fine Food Analysis using NLP](https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes.git)
+Amazon Fine Food Analysis Using NLP
+(https://github.com/maielhadad99/NLP_Amazon-Fine-Food-Reviews-Analysis_Naive_Bayes.git)
 
 <img src="images/amazon.jpeg?raw=true"/>
 
@@ -102,7 +103,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Implementing Deep Neutral Network with Keras for handwriting classification and recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
+[Implementing Deep Neutral Network With Keras For Handwriting Classification and Recognition](https://github.com/maielhadad99/Hand_Writting_Recognition_Project.git)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
@@ -125,7 +126,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying the people having diabetes ](https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
+Identifying The People Having Diabetes (https://github.com/maielhadad99/Pima_Indians_Diabetes_Database.git)
 
 <img src="images/Diabetes.jpg?raw=true"/>
 
@@ -141,7 +142,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-Identifying the people having heart disease
+Identifying The People Having Heart Disease
 https://github.com/maielhadad99/HEART_FAILURE_PRED.git
 
 <img src="images/heart.png?raw=true"/>
@@ -158,7 +159,7 @@ https://github.com/maielhadad99/HEART_FAILURE_PRED.git
 
 ***
 
-[Predicting the sales of the Video games](https://github.com/maielhadad99/Video_Game_Sales_Pred.git)
+[Predicting The Sales of The Video Games](https://github.com/maielhadad99/Video_Game_Sales_Pred.git)
 
 <img src="images/VG.jpeg?raw=true"/>
 
@@ -173,7 +174,7 @@ https://github.com/maielhadad99/HEART_FAILURE_PRED.git
 
 ***
 
-[Predicting the price of a house in Paris](https://github.com/maielhadad99/Paris_Housing_Price.git)
+[Predicting The Price of a House in Paris](https://github.com/maielhadad99/Paris_Housing_Price.git)
 
 <img src="images/HP.jpeg?raw=true"/>
 
