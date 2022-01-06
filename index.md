@@ -141,8 +141,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying The People Having Heart Disease]
-https://github.com/maielhadad99/HEART_FAILURE_PRED.git
+[Identifying The People Having Heart Disease](https://github.com/maielhadad99/HEART_FAILURE_PRED.git)
 
 <img src="images/heart.png?raw=true"/>
 
