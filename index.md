@@ -141,7 +141,8 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Identifying the people having heart disease ]https://github.com/maielhadad99/HEART_FAILURE_PRED.git
+Identifying the people having heart disease
+https://github.com/maielhadad99/HEART_FAILURE_PRED.git
 
 <img src="images/heart.png?raw=true"/>
 
@@ -172,13 +173,13 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Predicting the price of a house in paris](https://github.com/maielhadad99/Paris_Housing_Price.git)
+[Predicting the price of a house in Paris](https://github.com/maielhadad99/Paris_Housing_Price.git)
 
 <img src="images/HP.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,Linear Regression, Logistic Regression.
 
-**Project Objective:** In this problem, we will use the features associated with squareMeters, numberOfRooms, hasYard,hasPool,isNewBuilt,garage,hasGuestRoom to predict of Price of a house in paris.
+**Project Objective:** In this problem, we will use the features associated with squareMeters, numberOfRooms, hasYard,hasPool,isNewBuilt,garage,hasGuestRoom to predict of Price of a house in Paris.
 
 **Quantifiable result:** We could predict the price of house with an accuracy of 99.8% .
 
